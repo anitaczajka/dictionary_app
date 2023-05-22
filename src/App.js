@@ -15,7 +15,7 @@ export default function App() {
           <a
             href="https://github.com/anitaczajka/dictionary_app"
             target="_blank"
-            rel="noreffer"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
